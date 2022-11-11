@@ -1,9 +1,15 @@
 /* Add styling for your page here */
 
 .App {
-
+display: flex;
+align-items:flex-start;
+width: 100wv;
 }
 
-.BakeryItem {
-  
+.BakeryItem img{
+    width: 20vw;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
 }
